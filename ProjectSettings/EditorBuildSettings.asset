@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/GVIDI/Scenes/MapAR.unity
+    guid: 1c501ccda43701d4e82003ccfa629f52
+  - enabled: 1
+    path: Assets/GVIDI/Scenes/NextLocationAR.unity
+    guid: d6a5b064e2707bc4aa694a5eaeca263b
+  m_configObjects: {}
